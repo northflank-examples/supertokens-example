@@ -19,8 +19,6 @@ You can now clone your repository locally and start making changes. Push your ch
 
 [SuperTokens](https://supertokens.com/) is an open-source authentication solution that provides secure, scalable, and customizable login flows including session management, social login, and passwordless authentication.
 
-Learn more about deploying SuperTokens on Northflank [in our guide](https://northflank.com/guides/deploy-supertokens-on-northflank)
-
 ## Develop locally 🚀
 
 You can run `npm run start` or `yarn start` in the project root to launch the frontend and backend services locally.
